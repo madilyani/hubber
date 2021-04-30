@@ -11,9 +11,7 @@
   background-size: cover;
   background-position: center;
 }
-.help {
-  height: 2000px;
-}
+
 .background__inner {
   position: absolute;
   top: 0;
@@ -95,7 +93,7 @@
   top: 0;
   left: 0;
   z-index: 1;
-  background: #d6d6d6;
+  background: #f7f7f7;
 }
 .hidden{
   display: none;
