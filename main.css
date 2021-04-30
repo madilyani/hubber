@@ -11,6 +11,9 @@
   background-size: cover;
   background-position: center;
 }
+.help {
+  height: 2000px;
+}
 .background__inner {
   position: absolute;
   top: 0;
